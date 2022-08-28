@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">19-Toast</string>
+    <string name="toast_por_defecto">Toast - Por Defecto</string>
+    <string name="toast_gravity">Toast - Gravity</string>
+</resources>
