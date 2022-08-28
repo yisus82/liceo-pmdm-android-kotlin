@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">21-Dialogs</string>
+    <string name="dialogo_alerta">Diálogo Alerta</string>
+    <string name="dialogo_confirmacion">Diálogo Confirmación</string>
+    <string name="dialogo_seleccion">Diálogo Selección</string>
+    <string name="dialogo_personalizado">Diálogo Personalizado</string>
+    <string name="dialogo_linea_1">Diálogo Línea 1</string>
+    <string name="dialogo_linea_2">Diálogo Línea 2</string>
+</resources>
